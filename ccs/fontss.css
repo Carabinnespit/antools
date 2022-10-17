@@ -3,9 +3,9 @@
     font-weight: 400;
     font-style: normal;
     src: local('Poppins'),
-        url(fonts/Poppins-Regular.eot) format('eot'),
-        url(fonts/Poppins-Regular.woff2) format('woff2'),
-        url(fonts/Poppins-Regular.woff) format('woff');
+        url(./fonts/Poppins-Regular.eot) format('eot'),
+        url(./fonts/Poppins-Regular.woff2) format('woff2'),
+        url(./fonts/Poppins-Regular.woff) format('woff');
     font-display: swap;
 }
 
@@ -14,9 +14,9 @@
     font-weight: 500;
     font-style: normal;
     src: local('Poppis-medium'),
-        url(fonts/Poppins-Medium.eot) format('eot'),
-        url(fonts/Poppins-Medium.woff2) format('woff2'),
-        url(fonts/Poppins-Medium.woff) format('woff');
+        url(./fonts/Poppins-Medium.eot) format('eot'),
+        url(./fonts/Poppins-Medium.woff2) format('woff2'),
+        url(./fonts/Poppins-Medium.woff) format('woff');
     font-display: swap;
 }
 
@@ -25,9 +25,9 @@
     font-weight: 600;
     font-style: normal;
     src: local('Poppins-Semibold'),
-        url(fonts/Poppins-SemiBold.eot) format('eot'),
-        url(fonts/MoPoppins-SemiBold.woff2) format('woff2'),
-        url(fonts/MPoppins-SemiBold.woff) format('woff');
+        url(./fonts/Poppins-SemiBold.eot) format('eot'),
+        url(./fonts/MoPoppins-SemiBold.woff2) format('woff2'),
+        url(./fonts/MPoppins-SemiBold.woff) format('woff');
     font-display: swap;
 }
 
@@ -36,7 +36,7 @@
     font-weight: 400;
     font-style: normal;
     src: local('Roboto'),
-    url(fonts//Roboto-Regular.eot) format('eot'),
-    url(fonts//Roboto-Regular.woff) format('woff'),
-    url(fonts//Roboto-Regular.woff2) format('woff2'),
+    url(./fonts//Roboto-Regular.eot) format('eot'),
+    url(./fonts//Roboto-Regular.woff) format('woff'),
+    url(./fonts//Roboto-Regular.woff2) format('woff2'),
 }
